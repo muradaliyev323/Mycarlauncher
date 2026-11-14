@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mercedes ML 350</string>
+    <string name="header_title">MERCEDES-BENZ</string>
+    <string name="brand_name">MERCEDES-BENZ</string>
+    <string name="brand_model">ML 350</string>
+
+    <string name="btn_music">Музыка</string>
+    <string name="btn_video">Видео</string>
+    <string name="btn_apps">Приложения</string>
+    <string name="btn_nav">Навигация</string>
+    <string name="btn_settings">Настройки</string>
+    <string name="sub_apps">Все программы</string>
+    <string name="sub_settings">Система и OBD</string>
+    <string name="sub_choose">Удерживайте — выбрать</string>
+
+    <string name="gauge_speed">Скорость</string>
+    <string name="gauge_fuel">Уровень топлива</string>
+    <string name="gauge_temp">Температура ОЖ</string>
+    <string name="gauge_volt">Напряжение</string>
+    <string name="unit_speed">км/ч</string>
+    <string name="unit_temp">°C</string>
+    <string name="unit_fuel">%</string>
+    <string name="unit_volt">V</string>
+
+    <string name="obd_title">Диагностика OBD</string>
+    <string name="obd_none">Адаптер не выбран</string>
+    <string name="obd_bt_off">Bluetooth выключен</string>
+    <string name="obd_connecting">Подключение…</string>
+    <string name="obd_connected">Подключено</string>
+    <string name="obd_retry">Нет связи, повтор…</string>
+    <string name="obd_tap_choose">Нажмите, чтобы выбрать</string>
+    <string name="obd_errors_checking">Ошибки: проверка…</string>
+    <string name="obd_errors_none">Ошибок нет</string>
+    <string name="obd_errors_count">Ошибок: %d</string>
+    <string name="obd_pick_title">OBD-адаптер</string>
+    <string name="obd_pair_first">Сначала подключите адаптер в настройках Bluetooth (пин-код обычно 1234 или 0000), потом выберите его здесь.</string>
+    <string name="open_bt_settings">Настройки Bluetooth</string>
+
+    <string name="pl_label">Сейчас играет</string>
+    <string name="pl_idle">Ничего не играет</string>
+    <string name="pl_hint">Нажмите, чтобы показывать название трека</string>
+    <string name="notif_fail">Откройте «Настройки → Доступ к уведомлениям» и включите этот лаунчер</string>
+
+    <string name="set_obd">Выбрать OBD-адаптер</string>
+    <string name="set_bt">Bluetooth: подключить устройство</string>
+    <string name="set_notif">Название трека (доступ к уведомлениям)</string>
+    <string name="set_android">Настройки Android</string>
+
+    <string name="diag_header">Ошибки двигателя и коробки</string>
+    <string name="diag_not_connected">Адаптер не подключён</string>
+    <string name="diag_reading">Чтение…</string>
+    <string name="diag_ready">Данные получены</string>
+    <string name="diag_none">Ошибок нет</string>
+    <string name="diag_confirmed">Подтверждённые ошибки</string>
+    <string name="diag_pending">Ожидающие ошибки</string>
+    <string name="diag_unknown">описание не найдено</string>
+    <string name="diag_read">Прочитать заново</string>
+    <string name="diag_clear">Стереть ошибки</string>
+    <string name="diag_confirm_title">Стереть ошибки?</string>
+    <string name="diag_confirm_msg">Записанные ошибки двигателя и коробки будут удалены, лампа Check Engine погаснет. Если неисправность осталась, ошибка появится снова. Лучше делать при включённом зажигании и заглушённом двигателе.</string>
+    <string name="diag_erase">Стереть</string>
+    <string name="diag_cancel">Отмена</string>
+    <string name="diag_cleared">Ошибки стёрты</string>
+    <string name="diag_clear_fail">Не удалось стереть. Включите зажигание, заглушите двигатель и повторите.</string>
+
+    <string name="reset">Сбросить</string>
+    <string name="back">← Назад</string>
+    <string name="apps_hint">Нажмите — открыть, удерживайте — настройки приложения</string>
+    <string name="open_failed">Не удалось открыть</string>
+    <string name="no_bluetooth">Bluetooth недоступен</string>
+</resources>
